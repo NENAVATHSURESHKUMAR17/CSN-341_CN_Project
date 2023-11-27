@@ -1,7 +1,7 @@
 # CSN-341_CN_Project
 ## Overview
 
-The project focuses on simulating a dynamic cloud environment with CloudSim. It explores cost and time optimization using Particle Swarm Optimization (PSO), Task Scheduling with Shortest Job First (SJF), and Virtual Machine allocation with WicWSm algorithm. The implementation includes a server-client model with performance monitoring, load balancing, and cost optimization strategies.
+The project focuses on simulating a dynamic cloud environment with CloudSim. It explores cost and time optimization using Particle Swarm Optimization (PSO), Task Scheduling with Shortest Job First (SJF), and Virtual Machine allocation with WICS algorithm. The implementation includes a server-client model with performance monitoring, load balancing, and cost optimization strategies.
 
 ## Algorithms Used For SIMULATIONS
 
