@@ -24,16 +24,16 @@ The dynamic cloud environment is implemented using a server-client model. It inc
 
 ## Project Team
 
-Taddi Satya Sai Shyam Sundar - 21114102 
-Nenavath Suresh Kumar        - 21114066 
-Munugala Charn Tej           - 21114062 
-Sapavath Yashwanth Krishna   - 21114093 
-Rongala Mrunalini            - 21114084 
-Akula Koushik                - 21114010 
-Pasala Veera Siva            - 21114070 
-Ramavath Lalu                - 21114080 
-Cheedu Praneeth Reddy        - 21114031 
-Sai Rohan Pawar              - 21114088 
+Taddi Satya Sai Shyam Sundar - 21114102  
+Nenavath Suresh Kumar        - 21114066  
+Munugala Charn Tej           - 21114062  
+Sapavath Yashwanth Krishna   - 21114093  
+Rongala Mrunalini            - 21114084  
+Akula Koushik                - 21114010  
+Pasala Veera Siva            - 21114070  
+Ramavath Lalu                - 21114080  
+Cheedu Praneeth Reddy        - 21114031  
+Sai Rohan Pawar              - 21114088  
 
 
 
